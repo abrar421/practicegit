@@ -12,6 +12,13 @@ import javax.servlet.http.HttpSession;
 public class ComposeServlet extends HttpServlet {
 
 	
+	
+	
+	
+	
+	
+	/////test
+	
 	//public void doGet(HttpServletRequest request, HttpServletResponse response, Object parse)
 	//		throws ServletException, IOException {
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
